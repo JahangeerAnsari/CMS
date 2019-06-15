@@ -1,0 +1,100 @@
+html,body{
+    height: 100%;
+}
+
+body{
+    padding-top: 60px;
+} 
+.huge{
+    font-size: 50;
+    
+} 
+body#profile img#profile-image{
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+ 
+.tag-boxes .panel-primary{
+    border: 1px solid #2FA4E7;
+    background: #EF681A  ;
+        color:white;
+    border-radius: 10px;
+   
+}
+.tag-boxes .panel-primary a{
+    color: white;
+   
+}
+.tag-boxes .panel-primary a:hover{
+    color:  #D0D3D4;
+}
+.tag-boxes .panel-red{
+    color: white;
+    background: #d9534f;
+     border: 1px solid #2FA4E7;
+       border-radius: 10px;
+}
+
+.tag-boxes .panel-red a{
+    color: white;
+   
+}
+.tag-boxes .panel-red a:hover{
+    color:  #D0D3D4;
+}
+.tag-boxes .panel-yellow{
+    color: white;
+    background:  #BB8FCE;
+     border: 1px solid #2FA4E7;
+       border-radius: 10px;
+}
+
+.tag-boxes .panel-yellow a{
+    color: white;
+   
+}
+.tag-boxes .panel-yellow a:hover{
+    color:  #D0D3D4;
+}
+.tag-boxes .panel-green{
+    color: white;
+    background: #85C1E9 ;
+     border: 1px solid #2FA4E7;
+       border-radius: 10px;
+}
+
+.tag-boxes .panel-green a{
+    color: white;
+   
+}
+.tag-boxes .panel-green a:hover{
+    color:  #D0D3D4;
+} 
+#wrapper{
+    min-height: 100%;
+    position: relative;
+} 
+.body-section{ 
+    padding-bottom: 70px;
+   
+}
+footer{
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+    line-height: 30px;
+  background-color: black;
+  color: white;
+  text-align: center;
+} 
+footer a{
+    color: white;
+    font-weight: bold;
+    
+} 
+footer a:hover{
+    color: white;
+    text-decoration: underline;
+}
